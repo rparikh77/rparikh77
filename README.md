@@ -1,6 +1,6 @@
   <img width="2000" algin="center" alt="Screen Shot 2022-08-10 at 10 00 50 AM" src="https://user-images.githubusercontent.com/86808947/183938734-503616d5-4606-40b7-a536-c44cf4321403.png">
 <h1 align="center">Hi, I'm Rohan Parikh</h1>
-<h3 align="center">A third-year college student</h3>
+<h3 align="center">A third-year college student who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunites in front-end development.</h3>
 
 <h3 alight="left">Experience:</h3>
 <h3 alight="left">Projects:</h3>
