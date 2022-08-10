@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="990">
+<img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="850">
 
 <h3 align="center">A third-year college student who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunites in front-end development.</h3>
 
