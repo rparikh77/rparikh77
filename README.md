@@ -3,6 +3,7 @@
 <h2 align="center">A third-year college student who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunites in front-end development.</h2>
 
 <h2 align="center">Let's Connect:</h2>
+<a href=”https://www.linkedin.com/in/rohanparikh10/"><img align=”left” src=”https://raw.githubusercontent.com/rparikh77/rparikh77/main/image/linkedin.png" LinkedIn” width=”21px”/></a>
 <p align="left">Experience:</p>
 <p align="left">Projects:</p>
 <p alignt="left">Certificates:</p>
