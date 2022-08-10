@@ -1,9 +1,14 @@
   <img width="2000" algin="center" alt="Screen Shot 2022-08-10 at 10 00 50 AM" src="https://user-images.githubusercontent.com/86808947/183938734-503616d5-4606-40b7-a536-c44cf4321403.png">
 <h1 align="center">Hi, I'm Rohan Parikh</h1>
-<h2 align="center">A third-year college student who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunites in front-end development.</h2>
+<h3 align="center">A third-year college student who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunites in front-end development.</h3>
 
-<h2 align="center">Let's Connect:</h2>
-<a href=”https://www.linkedin.com/in/rohanparikh10/"><img align=”left” src=”https://raw.githubusercontent.com/rparikh77/rparikh77/main/image/linkedin.png" LinkedIn” width=”21px”/></a>
+<h3 align="left">Let's Connect: </h3>
+
+  [LinkedIn](https://www.linkedin.com/in/rohanparikh10/) | [GitHub](https://www.github.com/rparikh77/) | [Email](mailto:rparikh041@gmail.com)
+
+
+-----------
+
 <p align="left">Experience:</p>
 <p align="left">Projects:</p>
 <p alignt="left">Certificates:</p>
