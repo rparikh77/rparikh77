@@ -23,7 +23,7 @@
 
 
 
-[Notes App](https://github.com/rparikh77/budget-app.git) - Built using React <br />
+[Notes App](https://github.com/rparikh77/notes-app.git) - Built using React <br />
 <br />
 [Budget App](https://github.com/rparikh77/budget-app.git) - Built using React <br /> 
 <br />
