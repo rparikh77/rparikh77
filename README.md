@@ -21,10 +21,15 @@
 
 <h3 align="left">Projects:</h3>
 
-<p>Notes App - Built using React</p>  
-<p>Budget App - Built using React</p> 
-<p>Weather App - In Progress</p> 
-<p>Sports Library Website - In Progress</p> 
+
+
+[Notes App](https://github.com/rparikh77/budget-app.git) - Built using React <br />
+<br />
+[Budget App](https://github.com/rparikh77/budget-app.git) - Built using React <br /> 
+<br />
+Weather App - In Progress <br />
+<br />
+Sports Library Website - In Progress
 
 
 -----------
