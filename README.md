@@ -21,7 +21,10 @@
 
 <h3 align="left">Projects:</h3>
 
-<p align="center">Coming Soon</p>  
+<p>Notes App - Built using React</p>  
+<p>Budget App - Built using React</p> 
+<p>Weather App - In Progress</p> 
+<p>Sports Library Website - In Progress</p> 
 
 
 -----------
