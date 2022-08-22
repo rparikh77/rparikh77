@@ -27,7 +27,7 @@
 <br />
 [Budget App](https://github.com/rparikh77/budget-app.git) - Built using React <br /> 
 <br />
-Weather App - In Progress <br />
+Storm X (Weather App) - In Progress <br />
 <br />
 Sports Library Website - In Progress
 
