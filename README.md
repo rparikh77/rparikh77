@@ -35,12 +35,11 @@ Sports Library Website - In Progress
 -----------
 
 <h3 alignt="left">Certificates:</h3>
-<p>Align Technology - Align Software Engineering Virtual Experience Program | 2022 </p>
-<p>Cisco - Cisco Software Engineering Virtual Experience Program | 2022 </p>
-<p>Amazon Web Services (AWS) - Introduction to Machine Learning in AWS | 2022 </p>
-<p>MasterCard - Mastercard Cybersecurity Virtual Experience Program | 2022 </p>
-<p>Meta - Meta Front-End Professional Cerificate | In Progress - November 2022 </p>
-
+<p>Meta - Meta Front-End Professional Cerificate | Pursuing  </p>
+<p>Align Technology - Align Software Engineering Virtual Experience Program  </p>
+<p>Cisco - Cisco Software Engineering Virtual Experience Program  </p>
+<p>Amazon Web Services (AWS) - Introduction to Machine Learning in AWS </p>
+<p>MasterCard - Mastercard Cybersecurity Virtual Experience Program </p>
 
 -----------
 
