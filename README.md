@@ -35,7 +35,7 @@ Sports Library Website - In Progress
 -----------
 
 <h3 alignt="left">Certificates:</h3>
-<p>Meta - Meta Front-End Professional Cerificate | Pursuing  </p>
+<p>Meta - Meta Front-End Professional Certificate | Pursuing  </p>
 <p>Align Technology - Align Software Engineering Virtual Experience Program  </p>
 <p>Cisco - Cisco Software Engineering Virtual Experience Program  </p>
 <p>Amazon Web Services (AWS) - Introduction to Machine Learning in AWS </p>
