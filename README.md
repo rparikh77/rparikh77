@@ -26,7 +26,7 @@
 <br />
 [Budget App](https://github.com/rparikh77/budget-app.git) - Built using React <br /> 
 <br />
-[The Crossover Website] (https://the-crossover.vercel.app) - In Progress <br />
+[The Crossover Website](https://the-crossover.vercel.app) - In Progress <br />
 <br />
 Sports Library Website - In Progress
 
