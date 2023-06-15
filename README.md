@@ -28,7 +28,7 @@
 <br />
 [The Crossover Website](https://the-crossover.vercel.app) - In Progress <br />
 <br />
-[Sports Library Website](sportslibrary.vercel.app) - In Progress
+[Sports Library Website]([sportslibrary.vercel.app](https://sportslibrary.vercel.app/home)) - In Progress
 
 
 -----------
