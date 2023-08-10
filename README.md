@@ -39,7 +39,7 @@
 <p>Cisco - Cisco Software Engineering Virtual Experience Program  </p>
 <p>Amazon Web Services (AWS) - Introduction to Machine Learning in AWS </p>
 <p>MasterCard - Mastercard Cybersecurity Virtual Experience Program </p>
-<p>MasterCard - Microsoft Learn AI Skills Challenge </p>
+<p>Microsoft - Microsoft Learn AI Skills Challenge </p>
 
 -----------
 
