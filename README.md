@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="850">
 
-<h3 align="center">A senior at the University of North Texas who is passionate about developing creative and engaging web pages. To further my growth, I am actively seeking job opportunities in full-stack development.</h3>
+<h3 align="center">I am a passionate, entrereunial individual who loves to create dynamic and user-friendly web applications. With a strong foundation in full-stack development, I use React to design and implement robust solutions that seamlessly integrate front-end interfaces with powerful back-end functionalities. My commitment to continuous learning drives me to explore new avenues in software development and contribute to innovative projects.</h3>
 
 ------------------------------------------------------------
 
