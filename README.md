@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="850">
 
-<h3 align="center">I am a passionate, entrereunial individual who loves to create dynamic and user-friendly web applications. With a strong foundation in full-stack development, I use React to design and implement robust solutions that seamlessly integrate front-end interfaces with powerful back-end functionalities. My commitment to continuous learning drives me to explore new avenues in software development and contribute to innovative projects.</h3>
+<h3 align="center">I am a passionate, entrepreneurial full-stack developer who enjoys creating dynamic, user-friendly web applications with React, seamlessly integrating front-end and back-end functionalities. My commitment to continuous learning drives me to contribute to innovative software projects.</h3>
 
 ------------------------------------------------------------
 
