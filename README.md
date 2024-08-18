@@ -7,7 +7,7 @@
 <h3 align="left">Let's Connect: </h3>
 
   [LinkedIn](https://www.linkedin.com/in/rohanparikh10/) | [GitHub](https://www.github.com/rparikh77/) | [Email](mailto:rparikh041@gmail.com) | 
-  [Portfolio](https://raproom.vercel.app/)
+  [Portfolio](https://rohanparikh.vercel.app/)
 
 
 -----------
