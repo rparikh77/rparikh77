@@ -20,8 +20,7 @@
 
 <h3 align="left">Projects:</h3>
 
-
-[AuraVibe AI](https://auravibe.vercel.app/) - Built using React <br />
+[TicketScout](https://ticketscout.vercel.app) - Built using React <br />
 <br />
 [The Crossover Website](https://the-crossover.vercel.app) - Built using React <br />
 <br />
