@@ -21,14 +21,16 @@
 <h3 align="left">Projects:</h3>
 
 
-
-[Notes App](https://github.com/rparikh77/notes-app.git) - Built using React <br />
-<br />
-[Budget App](https://github.com/rparikh77/budget-app.git) - Built using React <br /> 
+[AuraVibe AI](https://auravibe.vercel.app/) - Built using React <br />
 <br />
 [The Crossover Website](https://the-crossover.vercel.app) - Built using React <br />
 <br />
-[Sports Library Website](https://sportslibrary.vercel.app/home) - Built using React
+[Sports Library Website](https://sportslibrary.vercel.app/home) - Built using React <br /> 
+<br />
+[Notes App](https://github.com/rparikh77/notes-app.git) - Built using React <br />
+<br />
+[Budget App](https://github.com/rparikh77/budget-app.git) - Built using React 
+
 
 
 -----------
