@@ -14,7 +14,7 @@
 
 <h3 align="left">Experience:</h3>
 <p>Crestron Electronics - Software Engineer Intern | June 2021 - May 2022</p>
-<p>Make Expression - Web Consultant | June 2022 - Present</p>
+<p>Make Expression - Associate | August 2022 - March 2023</p>
 
 -----------
 
