@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="850">
 
-<h3 align="center">I am a passionate, entrepreneurial software engineer who enjoys creating dynamic, user-friendly web applications using React, seamlessly integrating front-end and back-end functionalities. My skills and commitment to continuous learning empowers me to contribute to innovative projects that drive success.</h3>
+<h3 align="center">I am a passionate, entrepreneurial software developer who enjoys creating dynamic, user-friendly web applications using React, seamlessly integrating front-end and back-end functionalities. My skills and commitment to continuous learning empowers me to contribute to innovative projects that drive success.</h3>
 
 ------------------------------------------------------------
 
@@ -13,8 +13,9 @@
 -----------
 
 <h3 align="left">Experience:</h3>
+<p>CCM Consulting - Frontend Engineer | August 2024 – Present</p>
+<p>Make Expression - Web Consultant | August 2022 - March 2023</p>
 <p>Crestron Electronics - Software Engineer Intern | June 2021 - May 2022</p>
-<p>Make Expression - Associate | August 2022 - March 2023</p>
 
 -----------
 
