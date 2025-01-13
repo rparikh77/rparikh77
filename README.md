@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/86808947/183975388-c9af9491-052f-4a8f-8ec2-aaba80d50b8e.gif" align="center" width="850">
 
-<h3 align="center">I am a passionate, entrepreneurial software engineer who enjoys creating dynamic, user-friendly web applications using React, seamlessly integrating front-end and back-end functionalities. My skills and commitment to continuous learning empowers me to contribute to innovative projects that drive success.</h3>
-
-------------------------------------------------------------
-
 <h3 align="left">Let's Connect: </h3>
 
   [LinkedIn](https://www.linkedin.com/in/rohanparikh10/) | [GitHub](https://www.github.com/rparikh77/) | [Email](mailto:rparikh041@gmail.com) | 
