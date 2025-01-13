@@ -21,6 +21,8 @@
 
 <h3 align="left">Projects:</h3>
 
+[NFL CodeLab](https://nflcodelab.vercel.app/) - Built using React <br />
+<br />
 [AuraVibe](https://auravibe.vercel.app/) - Built using React <br />
 <br />
 [TicketScout](https://ticketscout.vercel.app) - Built using React <br />
