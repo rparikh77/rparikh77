@@ -50,13 +50,6 @@
 
 -----------
 
-<h3 align="left">Experience:</h3>
-<p>CCM Consulting - Frontend Engineer | August 2024 – Present</p>
-<p>Make Expression - Web Consultant | August 2022 - March 2023</p>
-<p>Crestron Electronics - Software Engineer Co-Op | June 2021 - May 2022</p>
-
------------
-
 <h3 align="left">Projects:</h3>
 
 [NFL CodeLab](https://nflcodelab.vercel.app/) - Built using React <br />
