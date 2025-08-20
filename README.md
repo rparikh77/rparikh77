@@ -69,17 +69,6 @@
 
 
 
------------
-
-<h3 alignt="left">Certificates:</h3>
-<p>Meta - Meta Introduction to Front-End Development </p>
-<p>Align Technology - Align Software Engineering Virtual Experience Program  </p>
-<p>Cisco - Cisco Software Engineering Virtual Experience Program  </p>
-<p>Amazon Web Services (AWS) - Introduction to Machine Learning in AWS </p>
-<p>MasterCard - Mastercard Cybersecurity Virtual Experience Program </p>
-<p>Microsoft - Microsoft Learn AI Skills Challenge </p>
-
-
 
 
 
