@@ -57,6 +57,8 @@
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Google%20AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Social%20Media-00C7B7?style=for-the-badge&logo=buffer&logoColor=white" /> 
 
 
 
