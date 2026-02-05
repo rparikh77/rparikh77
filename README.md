@@ -7,7 +7,7 @@
 
 -----------
 
-<h3 align="left">Data Skills:</h3>
+<h3 align="left">Skills:</h3>
 
 <!-- Main / Core Skills -->
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
