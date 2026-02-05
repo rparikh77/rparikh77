@@ -2,7 +2,7 @@
 
 <h3 align="left">Let's Connect: </h3>
 
-[Email](mailto:rparikh041@gmail.com) | [Portfolio](https://rohanparikh.vercel.app/)
+[Email](mailto:rparikh041@gmail.com)
 
 
 -----------
